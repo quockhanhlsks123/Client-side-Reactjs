@@ -1,0 +1,32 @@
+.feedback-container{
+
+        span{
+            font-size: 2rem;
+        font-weight: 600;
+        }
+        
+    .feedback-detail{
+        width: 500px;
+        margin-bottom: 15px;
+        margin-left: 15px;
+        padding-bottom: 5px;
+        border-bottom: 1px solid gray;
+        .name{
+            font-weight: 600;
+            font-size: 17px;
+            display: flex;
+            gap:10px;
+
+            .date{
+                font-style: italic;
+             color:#45c3d2;
+             font-size: 15px !important;
+             font-weight: 100 !important;  
+            }
+        }
+
+        .comment{
+           
+        }
+    }
+}

@@ -1,0 +1,21 @@
+.Clinic-container{
+    display: flex;
+    background: gray;
+    padding: 20px;
+
+    .input_Name_Address{
+        .button-container{
+            display: flex;
+            width: auto;
+            justify-content: center;
+            .btn{
+                width: 45%;
+            }
+        }
+    }
+
+    .rc-md-editor{
+        width: 1000px;
+        height: 500px;
+    }
+}

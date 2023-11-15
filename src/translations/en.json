@@ -1,0 +1,61 @@
+{
+    "homeheader": {
+        "speciality": "Medical specialty",
+        "searchdoctor": "Find a doctor by specialty",
+        "health-facility": "Health facilities",
+        "select-room": "Select hostpital clinic",
+        "doctor": "Doctor",
+        "select-doctor": "choose a good doctor",
+        "fee": "Checkup pagkage",
+        "check-health": "General health check",
+        "support": "Support",
+        "wellcome": "Wellcome"
+    },
+    "banner": {
+        "title": "MEDICAL PLATFORM",
+        "title2": "COMPREHENSIVE HEALTH CARE",
+        "child1": "Specialized examimation",
+        "child2": "remote examination",
+        "child3": "general examination",
+        "child4": "Medical tests",
+        "child5": "Mental health",
+        "child6": "Dental examination",
+        "child7": "Surgical package",
+        "child8": "Live healthy with diabetes",
+        "child9": "health examimation"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users system",
+            "manage-doctor": "manage doctor",
+            "manage-admin": "Manage admin",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD redux",
+            "clinic": "clinics",
+            "manage-clinic": "Manage clinic",
+            "specialty": "specialties",
+            "manage-specialty": "Manage specialty",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbook"
+        }
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "phone-number": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "image": "Image",
+        "save": "Save",
+        "edit": "Edit user"
+    },
+    "homepage": {
+        "outstanding-doctor": "outstanding doctor",
+        "more-infor": "More information"
+    }
+}

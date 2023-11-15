@@ -1,0 +1,36 @@
+.modal-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.clinic-container{
+    
+    .name-address{
+        display: flex;
+        margin-bottom: 30px;
+        margin-top: 20px;
+        width: 100%;
+        .name{
+            
+            display: flex;
+            width: 50%;
+            font-size: 30px;
+            justify-content: right;
+            border-right: 1px solid gray;
+            padding-right: 44px;
+            
+            text-decoration: underline;
+        }
+
+        .address{
+            width: 50%;
+            display: flex;
+            width: 50%;
+            justify-content: left;
+            align-items: center;
+            margin-left: 45px;
+            padding-right: 270px;
+        }
+    }
+}

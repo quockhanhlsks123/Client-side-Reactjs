@@ -1,0 +1,42 @@
+.modal-content{
+  border:  none !important;
+}
+
+.doctor-detail-container{
+  height: auto;
+
+  border-radius: 10px;
+  margin: 0 20px;
+
+  .intro-doctor{
+    display: flex;
+    margin-left: 20px;
+    .content-left{
+      width: 20%;
+      background:center center no-repeat;
+      width: 120px;
+      height: 120px;
+      border-radius: 50%; 
+      margin: 10px 20px;
+    }
+
+    .content-right{
+      margin-left: 20px;
+      width: 80%;
+      display: flex;
+      flex-direction: column;
+      padding-left: 10px;
+
+      .up{
+        font-size: 20px;
+        font-weight: 600;
+        padding-top: 15px;
+      }
+
+      .down{
+        padding-top: 10px;
+        width: 500px;
+      }
+    }
+  }
+}
